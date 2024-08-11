@@ -75,7 +75,7 @@ async function generateResponse(question) {
 }
 
 sendBtn.addEventListener("click", inputHandler);
-chatbox;ear
+chatbox;
 
 //Ad event listener ti the textarea for enter key
 userText.addEventListener("keydown" , function(event){
